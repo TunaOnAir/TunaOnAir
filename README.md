@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TunaOnAir
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unreal Engine, Python and C#
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: tunaonair@gmail.com
 
 <!---
